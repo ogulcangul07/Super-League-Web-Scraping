@@ -1,5 +1,20 @@
 # Super-League-Web-Scraping
 
+| Column Name         | Description |
+|---------------------|-------------|
+| **Player**          | Full name of the player |
+| **Number**          | Player's squad number (if available) |
+| **Position**        | Playing position (e.g., Forward, Midfielder, Defender, Goalkeeper) |
+| **Team**            | Name of the team |
+| **Age**             | Player's age |
+| **Country**         | Player's primary nationality |
+| **Height**          | Player's height (in meters) |
+| **Foot**            | Preferred foot (Left, Right, or Both) |
+| **Value**           | Current market value of the player (in EUR) |
+| **Previous Team**   | Name of the previous club before joining |
+| **TransferFee**     | Transfer fee paid (if available) |
+| **Status**          | Contract type with the current club (Permanent or Loan) |
+
 A Python-based web scraping tool for scraping Super League Players data such as player information, market values, teams and values from Transfermarkt.
 
 ## 📌 Features
@@ -24,17 +39,4 @@ A Python-based web scraping tool for scraping Super League Players data such as 
    cd Super-League-Web-Scraping
    The generated CSV file contains the following columns:
 
-| Column Name         | Description |
-|---------------------|-------------|
-| **Player**          | Full name of the player |
-| **Number**          | Player's squad number (if available) |
-| **Position**        | Playing position (e.g., Forward, Midfielder, Defender, Goalkeeper) |
-| **Team**            | Name of the team |
-| **Age**             | Player's age |
-| **Country**         | Player's primary nationality |
-| **Height**          | Player's height (in meters) |
-| **Foot**            | Preferred foot (Left, Right, or Both) |
-| **Value**           | Current market value of the player (in EUR) |
-| **Previous Team**   | Name of the previous club before joining |
-| **TransferFee**     | Transfer fee paid (if available) |
-| **Status**          | Contract type with the current club (Permanent or Loan) |
+
