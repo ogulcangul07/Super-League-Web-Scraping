@@ -39,3 +39,7 @@ The generated CSV file contains the following columns:
 | **Previous Team**   | Name of the previous club before joining |
 | **TransferFee**     | Transfer fee paid (if available) |
 | **Status**          | Contract type with the current club (Permanent or Loan) |
+
+
+
+Disclaimer: This project is for educational and personal use only. All data scraped belongs to Transfermarkt. This project has no commercial purpose.
