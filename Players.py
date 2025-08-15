@@ -28,7 +28,7 @@ def get_html(url, retries=3, wait=3):
     return None
 
 def get_team_data(club_name, club_id):
-    url = f"https://www.transfermarkt.com.tr/{club_name}/kader/verein/{club_id}/saison_id/2025/plus/1"
+    url = f"https://www.transfermarkt.com/{club_name}/kader/verein/{club_id}/saison_id/2025/plus/1"
     soup = get_html(url)
     if not soup:
         return False
@@ -105,3 +105,4 @@ if failed_teams:
     print("\n❌ Still failed teams:")
     for team in failed_teams:
         print(team)
+
