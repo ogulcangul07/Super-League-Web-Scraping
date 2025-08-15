@@ -21,7 +21,10 @@ A Python-based web scraping tool for scraping Super League Players data such as 
    ```bash
    git clone https://github.com/ogulcangul07/Super-League-Web-Scraping.git
    cd Super-League-Web-Scraping
-   The generated CSV file contains the following columns:
+
+
+   
+The generated CSV file contains the following columns:
 | Column Name         | Description |
 |---------------------|-------------|
 | **Player**          | Full name of the player |
