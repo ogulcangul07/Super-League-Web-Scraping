@@ -42,4 +42,5 @@ The generated CSV file contains the following columns:
 
 
 
-Disclaimer: This project is for educational and personal use only. All data scraped belongs to Transfermarkt. This project has no commercial purpose.
+
+##  Disclaimer: This project is for educational and personal use only. All data scraped belongs to Transfermarkt. This project has no commercial purpose.
